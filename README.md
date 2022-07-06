@@ -1,4 +1,4 @@
-### <b>Hello there 👋, I'm Shaikh Mohammed Mudassir</b> 
+<h1 align="center" >Hello there!👋, I am Shaikh Mohammed Mudassir.</h1>
 
 <h3 align="center">An Ardent Android / Flutter Developer and a Keen Learner.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AsimAhmedSiddiquii" alt="Asim Siddiqui" /> </p>
