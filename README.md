@@ -1,7 +1,7 @@
 <h1 align="center" >Hello there!👋, I am Shaikh Mohammed Mudassir.</h1>
 
-<h3 align="center">An Ardent Android / Flutter Developer and a Keen Learner.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AsimAhmedSiddiquii" alt="Asim Siddiqui" /> </p>
+<h3 align="center">An Ardent Developer and a Keen Learner.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AsimAhmedSiddiquii" alt="Shaikh Mudassir" /> </p>
 
 -   🔭 I’m currently working on Android and Software Development
 -   💬 Ask me about NodeJs, Java, Python, PHP.
