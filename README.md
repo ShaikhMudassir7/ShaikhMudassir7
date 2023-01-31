@@ -1,5 +1,7 @@
 <h1 align="center" >Hello there!👋, I am Shaikh Mohammed Mudassir.</h1>
 
+<p align="left"> <a href="https://github.com/ShaikhMudassir7/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varshil-shah&column=-1&margin-w=10&no-frame=true&no-bg=true&rank=-C&theme=darkhub" alt="Varshil-Shah's Profile Trophies" /></a> </p>
+
 <h3 align="center">An Ardent Developer and a Keen Learner.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AsimAhmedSiddiquii" alt="Shaikh Mudassir" /> </p>
 
