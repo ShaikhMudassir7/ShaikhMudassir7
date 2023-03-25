@@ -16,11 +16,11 @@
 ### Connect with me:
 <p align="left">
 <a href="https://dev.to/shaikhmudassir7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="varshilshah" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shaikh-mudassir-5479681a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varshil-shah-706028203" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21116078/mudassir-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13803366/varshil-shah" height="30" width="40" /></a>
-<a href="https://instagram.com/sheikh7mudassir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__varshilshah" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/send2mudassir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="varshilshah" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shaikhmudassir7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varshilshah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shaikh-mudassir-5479681a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21116078/mudassir-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a>
+<a href="https://instagram.com/sheikh7mudassir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/send2mudassir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shaikhmudassir7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
 </p>
 
 
