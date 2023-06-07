@@ -9,8 +9,9 @@
 
 -   💬 Ask me about **NodeJs, Java, Python, PHP & Data Structures And Algorithm**
 
--   📫 How to reach me: **send2mudassir@gmail.com**
-**shaikhmudassir7.github.io**[shaikhmudassir7.github.io]
+-   📫 How to reach me: h
+**send2mudassir@gmail.com**
+**[Mudassir's Portfolio](https://shaikhmudassir7.github.io)**
 
 -   ⚡ Fun fact: **Python over Java**
 
